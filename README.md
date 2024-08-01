@@ -1,9 +1,12 @@
 # DESAFIO QA BEEDOO
 #
 #
+
+
 ![Link da Planilha de Casos de testes](https://docs.google.com/spreadsheets/d/1Z1wQGqIE2y6u2i8rgJ3gJFas5t9npKxA-Mp8ZeWNcUo/)
 #
 #
+
 ## Users Story do módulo de curso do Beedoo
 #
 ## Requerimento 1
