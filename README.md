@@ -1,4 +1,4 @@
-# Desafio-Tecnico-QA
+# DESAFIO QA BEEDOO
 #
 #
 ## Users Story do módulo de curso do Beedoo
