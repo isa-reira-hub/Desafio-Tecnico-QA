@@ -131,12 +131,10 @@
 | Registro das Decisões |                            |                
 | ----------------  |:-------------:               |
 | Histórico de Decisões:| - |
-| 1. Identificação da Necessidade | - Decisão tomada em reunião de planejamento com stakeholders. <br> - Necessidade identificada através de feedback de usuários e análise de requisitos | 
+| 1. Identificação da Necessidade | - Decisão tomada em reunião de planejamento com stakeholders. <br> - Análise identificada através de um analista UI/UX para definição de figma | 
 | 2. Definição do Objetivo do Usuário | - Baseada em entrevistas com administradores e pesquisa de mercado<br> - Validação feita com protótipos e testes de usabilidade | 
-| 3. Critérios de Aceitação| - Definidos em colaboração com a equipe de desenvolvimento e QA<br> - Critérios revisados e aprovados por stakeholders|
-| 4. Notas e Restrições| - Adicionadas com base em recomendações de segurança da equipe de TI<br> - Revisão de segurança concluída | 
-| 5. Tarefas Técnicas | - Identificadas durante a sessão de planejamento de sprint<br> - Tarefas divididas e atribuídas à equipe de desenvolvimento| 
-| 6. Mockup e Diagrama de Fluxo| - Criados pelo designer UX<br> - Revisados e aprovados em reunião de revisão de design|
+| 3. Critérios de Aceitação| - Definidos com o PO/área de negócio e colaboração da equipe de desenvolvimento e QA<br> - Critérios revisados e aprovados por stakeholders| 
+| 4. Mockup e Diagrama de Fluxo| - Criados pelo designer UX<br> - Revisados e aprovados em reunião de revisão de design|
 
 
 
