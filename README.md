@@ -4,8 +4,8 @@
 
 
 
-- [Link PLANO DE TESTES](https://docs.google.com/spreadsheets/d/1Z1wQGqIE2y6u2i8rgJ3gJFas5t9npKxA-Mp8ZeWNcUo/edit?usp=sharing)
-
+- [PLANO DE TESTES](https://docs.google.com/spreadsheets/d/1Z1wQGqIE2y6u2i8rgJ3gJFas5t9npKxA-Mp8ZeWNcUo/edit?usp=sharing)
+- [CENÁRIOS DE BUGS](https://docs.google.com/spreadsheets/d/1zQJiCK73AMP89w40KU_1qWKm0vIXPVGPqE3msJ_z5K8/edit?usp=sharing)
 
 #
 #
