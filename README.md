@@ -4,6 +4,9 @@
 
 
 
+- [Link PLANO DE TESTES](https://docs.google.com/spreadsheets/d/1Z1wQGqIE2y6u2i8rgJ3gJFas5t9npKxA-Mp8ZeWNcUo/edit?usp=sharing)
+
+
 #
 #
 
