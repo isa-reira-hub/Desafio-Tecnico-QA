@@ -8,6 +8,7 @@
 - [CENÁRIOS DE BUGS](https://docs.google.com/spreadsheets/d/1zQJiCK73AMP89w40KU_1qWKm0vIXPVGPqE3msJ_z5K8/edit?usp=sharing)
 
 #
+- As evidências estão dentro das planilhas
 #
 
 ## Users Story do módulo de curso do Beedoo
